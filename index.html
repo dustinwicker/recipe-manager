@@ -84,6 +84,26 @@
             color: #999;
         }
         
+        .recipe-combobox-clear {
+            padding: 15px 12px;
+            color: #999;
+            font-size: 1.2em;
+            cursor: pointer;
+            user-select: none;
+            border: none;
+            background: transparent;
+            flex-shrink: 0;
+            line-height: 1;
+        }
+        
+        .recipe-combobox-clear:hover {
+            color: #667eea;
+        }
+        
+        .recipe-combobox-clear.hidden {
+            display: none;
+        }
+        
         .recipe-combobox-arrow {
             padding: 15px 16px;
             color: #667eea;
@@ -224,6 +244,7 @@
             <div class="recipe-combobox">
                 <div class="recipe-combobox-inner" id="recipe-combobox-inner">
                     <input type="text" id="recipe-input" class="recipe-combobox-input" placeholder="Type or select a recipe..." autocomplete="off" aria-label="Search or select recipe" />
+                    <button type="button" class="recipe-combobox-clear hidden" id="recipe-clear" title="Clear" aria-label="Clear search">×</button>
                     <button type="button" class="recipe-combobox-arrow" id="recipe-arrow" title="Show all recipes" aria-label="Show all recipes">▼</button>
                 </div>
                 <div id="recipe-suggestions" class="recipe-suggestions"></div>
@@ -258,6 +279,7 @@
         const recipeContainer = document.getElementById('recipe-container');
         const recipeInput = document.getElementById('recipe-input');
         const recipeComboboxInner = document.getElementById('recipe-combobox-inner');
+        const recipeClear = document.getElementById('recipe-clear');
         const recipeArrow = document.getElementById('recipe-arrow');
         const recipeSuggestions = document.getElementById('recipe-suggestions');
         const recipeContent = document.getElementById('recipe-content');
@@ -389,10 +411,24 @@
             recipeSuggestions.classList.add('visible');
         }
 
+        function updateClearVisibility() {
+            recipeClear.classList.toggle('hidden', !recipeInput.value.trim());
+        }
+
+        function clearRecipe() {
+            recipeInput.value = '';
+            recipeSuggestions.classList.remove('visible');
+            recipeComboboxInner.classList.remove('focused');
+            recipeContent.classList.add('hidden');
+            updateClearVisibility();
+            recipeInput.focus();
+        }
+
         function selectRecipe(title) {
             recipeInput.value = title;
             recipeSuggestions.classList.remove('visible');
             recipeComboboxInner.classList.remove('focused');
+            recipeClear.classList.remove('hidden');
             loadRecipe(title);
         }
 
@@ -403,12 +439,18 @@
         }
 
         recipeInput.addEventListener('input', function() {
+            updateClearVisibility();
             const matches = filterRecipes(this.value);
             showSuggestions(matches);
             recipeComboboxInner.classList.add('focused');
         });
 
         recipeInput.addEventListener('focus', openSuggestions);
+
+        recipeClear.addEventListener('click', function(e) {
+            e.preventDefault();
+            clearRecipe();
+        });
 
         recipeArrow.addEventListener('mousedown', function(e) {
             e.preventDefault();
