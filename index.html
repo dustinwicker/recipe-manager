@@ -312,7 +312,8 @@
                     const link = document.createElement('a');
                     link.href = linkInfo.url;
                     link.target = '_blank';
-                    link.textContent = linkInfo.text || 'Full Recipe';
+                    const label = (linkInfo.text || '').trim();
+                    link.textContent = (label && label !== 'Recipe') ? label : 'Full Recipe';
                     link.className = 'external-link';
                     recipeLinkSection.appendChild(link);
                     recipeLinkSection.appendChild(document.createTextNode(' '));
