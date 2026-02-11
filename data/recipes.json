@@ -28,22 +28,8 @@
       }
     ],
     "picture_links": [],
-    "quick_recipe": null,
+    "quick_recipe": "Ingredients:\n1 pound ground beef\n1 small onion – chopped.\n16 ounce can baked beans (I use Bush’s Original)\n1 green pepper – chopped.\n½ cup BBQ sauce\n1-2 cups shredded cheddar cheese.\nInstructions:\nBrown ground beef, green pepper, and onion together. Drain grease.\nMix with baked beans and BBQ sauce.\nPour in casserole dish.\nBake at 350 degrees for 35 minutes.\nPut shredded cheese on top and return to oven just long enough to melt the cheese.",
     "has_quick_recipe": true,
-    "note": null
-  },
-  {
-    "title": "Baked Sweet Potato (Vegan)",
-    "external_links": [
-      {
-        "text": "Recipe",
-        "url": "https://www.loveandlemons.com/baked-sweet-potato/#wprm-recipe-container-43032"
-      }
-    ],
-    "google_doc_links": [],
-    "picture_links": [],
-    "quick_recipe": null,
-    "has_quick_recipe": false,
     "note": null
   },
   {
@@ -721,11 +707,11 @@
     ],
     "picture_links": [
       {
-        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfsTtwbNwFteCNLM8bqbov0wSqOtYsj2MvjwAHKBUcelCiAGLLQhB0KykmvovC8Haf4MLJIOOjPffCxeYA7M0ses18BvYg0xsQPKXnKgjemEwjLkEg4UgPIfdwJAegPzLoc2Ws_FUnLBUO-_MjpDcwN0v5FdN9UMet1qFWqqF8SmdnU?key=wEPWxtUnHiNLCWAOOQZ2BQ",
+        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdPZyR_JwCWoInjEbda5liG2myG9w7PA2XDTMXtJm3MiF53uhjZRQQ-YPta8A6QjPC_VFpar2pN1zkjE5Ae4EPwWTZAblmW52w2MSRrBKJ9szMzFooYaE-tqcL0y7rSsBKcHRebU4kih15e8-BOVQASu2Cn7vi3NrDDZv1XYAMFcsrT?key=wEPWxtUnHiNLCWAOOQZ2BQ",
         "text": "Image"
       },
       {
-        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeWXQ2u8vHIjxbIg5xs6QgwUMvRVeRWCZfTzaDIpae4O5aoy1jWFszw1Vpa2fIV1JikNrhs7kRcZBraJwDP51J0xlqjLy1Rz3I04MQFwA_gKuLt2qBvVeP7xGq7zX6E0fAzYpDFrPWtVQYXtpH-pH9cTxUFdOQK_YmDnNeWvANfEPWT?key=wEPWxtUnHiNLCWAOOQZ2BQ",
+        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcFkDZ_urWjbT92mpDNYa_aLz8__-GFdUNW1jTr6MKE8rFzuz2Zf1iRhMTFW-JHi5V7i0gnNqkZ4Js5yI_cHejazR_2f2XUVE5XMSsnOB2jEiweG8_dOdj-VUEPPWG-fDhi1cvBjAM33G3KacID-uaUQ5Gi8EGkdAaJbPOPA7GEPtLU?key=wEPWxtUnHiNLCWAOOQZ2BQ",
         "text": "Image"
       }
     ],
@@ -1150,7 +1136,7 @@
     "note": null
   },
   {
-    "title": "Tofu (Vegan)",
+    "title": "Tofu",
     "external_links": [
       {
         "text": "Recipe",
