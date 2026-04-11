@@ -384,7 +384,7 @@
         "url": "https://www.youtube.com/watch?v=Aistuj0bzcM&ab_channel=CleanFoodLiving"
       },
       {
-        "text": "AdamWitt Article",
+        "text": "AdamWitt_Article",
         "url": "https://www.adamwitt.co/allrecipes/4cknmn4gzlfd3se-6f73p-bzjk2-n8prs-bah54-4ew2f-h9l8y-n9hwn-awa68-bwbdj-52fx6-t44mc-z9mhb-r43tk-zljs7-6ngb4-356dn-djj27-z9hym-88ht4?rq=honey%20garlic"
       }
     ],
@@ -516,11 +516,11 @@
     "note": null
   },
   {
-    "title": "Fermented Beet",
+    "title": "Fermented Beets",
     "external_links": [
       {
         "text": "Recipe",
-        "url": "https://ladyleeshome.com/fermenting-beets/"
+        "url": "https://ladyleeshome.com/fermenting-beets/#mv-creation-102-jtr"
       }
     ],
     "google_doc_links": [],
@@ -535,6 +535,38 @@
       {
         "text": "Recipe",
         "url": "https://www.youtube.com/watch?v=pRQzusfirJ8&ab_channel=CleanFoodLiving"
+      }
+    ],
+    "google_doc_links": [],
+    "picture_links": [],
+    "quick_recipe": null,
+    "has_quick_recipe": false,
+    "note": null
+  },
+  {
+    "title": "Fermented Pickles with Garlic and Dill",
+    "external_links": [
+      {
+        "text": "Recipe",
+        "url": "https://www.feastingathome.com/fermented-pickles/"
+      }
+    ],
+    "google_doc_links": [],
+    "picture_links": [],
+    "quick_recipe": null,
+    "has_quick_recipe": false,
+    "note": null
+  },
+  {
+    "title": "Flour Tortillas",
+    "external_links": [
+      {
+        "text": "Recipe",
+        "url": "https://www.lionsbread.com/easy-homemade-flour-tortillas/#wprm-recipe-container-5748"
+      },
+      {
+        "text": "Recipe_2",
+        "url": "https://thecafesucrefarine.com/best-ever-homemade-flour-tortillas/#recipe"
       }
     ],
     "google_doc_links": [],
@@ -707,11 +739,11 @@
     ],
     "picture_links": [
       {
-        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeyShd0z_SNk8TxpDa-uJRqfz-nhRi9iLeIjbUI2qKB_ZUxX5yTCiQLZ6--TcLoMAI73NUwWN_8Pjn5hFXZF17TzqTPRHrxKX6w8Fzl2sy8U3Sw98bwU4c-o988vyQuj8LH2PUywuqrDbsJbGYgnl0m2xztZ3gus9urcdD5HrMMlS6Q?key=wEPWxtUnHiNLCWAOOQZ2BQ",
+        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfT9MYYLK5W_gxWCZsqppQSEXxj8Z7pAKghbPJ_jj3zak6UmpTNYh5_Ez-XBdgVGRETh8WkcBtKGK-z27fOwdLbIBAmFuI2EXGgc14z1IeM0S6AsVuEXYCH5-ZMV_v6rKH9CDV-BtSEsb75pOQN2xQlXs9VFSL1EEZXYjH_UIx0XWWf?key=wEPWxtUnHiNLCWAOOQZ2BQ",
         "text": "Image"
       },
       {
-        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcPXXAW8XfAGdP5aH0y9ShYJQOz-1g_e4qZNcSFb0IEYKuwloXqee1ha2a1se5ZTDZc2Q_c_y80QgsAppGf_fUbJDZfE9St80WqYXL9RcdPT-P4Vw54W9uOjovEmj6WsDIdVXy-Uirxmq2o1GOjzYtamzwENuGqGkldOR8_UC9t2HHM?key=wEPWxtUnHiNLCWAOOQZ2BQ",
+        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdxShqiahgd8q3UXIXa-izbkDkOs3EmbSLtHBBmqxOQ4Uyq5Up_7ld9cJXkFdmEeBxhGISMg6zyjOi2f_9NbEcrNQL7ZSdms0oN--i_v7nKx0QJkfEZj2vP3OHJeN3rgav5v4YcllgljNMt1JMM_ETK6xk0wKuOyrrIbZRnZcIJe_F_?key=wEPWxtUnHiNLCWAOOQZ2BQ",
         "text": "Image"
       }
     ],
@@ -1057,6 +1089,20 @@
     "note": null
   },
   {
+    "title": "Spinach Patties",
+    "external_links": [
+      {
+        "text": "Recipe",
+        "url": "https://ladyleeshome.com/spinach-patties-25/#mv-creation-107-jtr"
+      }
+    ],
+    "google_doc_links": [],
+    "picture_links": [],
+    "quick_recipe": null,
+    "has_quick_recipe": false,
+    "note": null
+  },
+  {
     "title": "Stuffing",
     "external_links": [
       {
@@ -1171,20 +1217,6 @@
     "picture_links": [],
     "quick_recipe": "- Press tofu hard.\n  - 20–30 minutes minimum. More water removed = more crisp.\n- Place tofu in a plain baking sheet.\n- Sprinkle tofu with cornstarch. Toss gently until lightly coated.\n- Drizzle ~½–1 tsp of olive oil on a baking sheet and spread thin.\n  - Oil should coat the baking sheet, not the tofu.\n- Oven: 425 deg - 30 min",
     "has_quick_recipe": true,
-    "note": null
-  },
-  {
-    "title": "Tortillas",
-    "external_links": [
-      {
-        "text": "Recipe",
-        "url": "https://www.lionsbread.com/easy-homemade-flour-tortillas/"
-      }
-    ],
-    "google_doc_links": [],
-    "picture_links": [],
-    "quick_recipe": null,
-    "has_quick_recipe": false,
     "note": "on Heat: Put on next dot after MED"
   },
   {
