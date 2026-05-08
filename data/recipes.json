@@ -33,6 +33,20 @@
     "note": null
   },
   {
+    "title": "Baked Sweet and Sour Chicken",
+    "external_links": [
+      {
+        "text": "Recipe",
+        "url": "https://www.ezoshop.best/2024/12/baked-sweet-and-sour-chicken_11.html?fbclid=IwY2xjawRpcSVleHRuA2FlbQIxMABicmlkETFOM2Z2NE8zVGlkZkJ2MXhic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqvdcGIl8DQW6wJIDxEBxYeMSL-GF55ow2NRmxLrHGABKNbqFO4avUx7pCmG_aem_B5ose54cTsxJ9IlEvU6kQw"
+      }
+    ],
+    "google_doc_links": [],
+    "picture_links": [],
+    "quick_recipe": null,
+    "has_quick_recipe": false,
+    "note": null
+  },
+  {
     "title": "Baked Sweet Potato (Vegan)",
     "external_links": [
       {
@@ -118,6 +132,20 @@
   {
     "title": "Breakfast for dinner",
     "external_links": [],
+    "google_doc_links": [],
+    "picture_links": [],
+    "quick_recipe": null,
+    "has_quick_recipe": false,
+    "note": null
+  },
+  {
+    "title": "Breakfast Sandwiches (Vegan)",
+    "external_links": [
+      {
+        "text": "Recipe",
+        "url": "https://carlsbadcravings.com/tater-tot-breakfast-casserole/#wprm-recipe-container-45086"
+      }
+    ],
     "google_doc_links": [
       {
         "text": "Ethan_and_Mom_Recipe",
@@ -149,6 +177,20 @@
       {
         "text": "Recipe",
         "url": "https://thefeedfeed.com/feelgoodfoodie/broccoli-feta-soup"
+      }
+    ],
+    "google_doc_links": [],
+    "picture_links": [],
+    "quick_recipe": null,
+    "has_quick_recipe": false,
+    "note": null
+  },
+  {
+    "title": "Brownie Cookies",
+    "external_links": [
+      {
+        "text": "Recipe",
+        "url": "https://divascancook.com/brownie-cookies-recipe/"
       }
     ],
     "google_doc_links": [],
@@ -246,6 +288,20 @@
     "note": null
   },
   {
+    "title": "Chanko Nabe (Sumo Stew)",
+    "external_links": [
+      {
+        "text": "Recipe",
+        "url": "https://www.justonecookbook.com/chanko-nabe-sumo-stew/#recipe"
+      }
+    ],
+    "google_doc_links": [],
+    "picture_links": [],
+    "quick_recipe": null,
+    "has_quick_recipe": false,
+    "note": null
+  },
+  {
     "title": "Cheese-Wrapped Chicken Taquitos",
     "external_links": [
       {
@@ -294,7 +350,12 @@
   },
   {
     "title": "Chicken Salad",
-    "external_links": [],
+    "external_links": [
+      {
+        "text": "Recipe",
+        "url": "https://www.allrecipes.com/julia-child-chicken-salad-recipe-11762265"
+      }
+    ],
     "google_doc_links": [],
     "picture_links": [],
     "quick_recipe": null,
@@ -418,11 +479,39 @@
     "note": null
   },
   {
+    "title": "Chocolate Mousse",
+    "external_links": [
+      {
+        "text": "Recipe",
+        "url": "https://littlehealthylife.com/classic-chocolate-mousse-recipe-2008/?fbclid=IwY2xjawM64nJleHRuA2FlbQIxMQABHur1WePB4ZrTHEMBbGQ-LkPM4njwpYCG2k2HsVRQp9HE2Br3ncD9T1vy8nzb_aem_nEmTci2xmFsNPzpzntL4kg"
+      }
+    ],
+    "google_doc_links": [],
+    "picture_links": [],
+    "quick_recipe": null,
+    "has_quick_recipe": false,
+    "note": null
+  },
+  {
     "title": "Chocolate Peanut Butter Balls",
     "external_links": [
       {
         "text": "Recipe",
         "url": "https://littlehealthylife.com/chocolate-peanut-butter-balls-2005/?fbclid=IwY2xjawNE1OtleHRuA2FlbQIxMQABHivpz2wtMNM3FB_Zs0zAlvCdsTFTmmT7l4dNxbWz2J4PPZSZ64cQHY_76nWg_aem_XbIxz0FOXtahJDxeVtvZ0A"
+      }
+    ],
+    "google_doc_links": [],
+    "picture_links": [],
+    "quick_recipe": null,
+    "has_quick_recipe": false,
+    "note": null
+  },
+  {
+    "title": "Cinnamon Roll Bread",
+    "external_links": [
+      {
+        "text": "Recipe",
+        "url": "https://divascancook.com/cinnamon-roll-bread-recipe/"
       }
     ],
     "google_doc_links": [],
@@ -572,6 +661,10 @@
       {
         "text": "Recipe",
         "url": "https://www.feastingathome.com/fermented-pickles/"
+      },
+      {
+        "text": "Recipe_2",
+        "url": "https://cleanfoodliving.net/fermented-pickles/"
       }
     ],
     "google_doc_links": [],
@@ -590,6 +683,14 @@
       {
         "text": "Recipe_2",
         "url": "https://thecafesucrefarine.com/best-ever-homemade-flour-tortillas/#recipe"
+      },
+      {
+        "text": "Recipe_3",
+        "url": "https://www.halfbakedharvest.com/homemade-flour-tortillas/"
+      },
+      {
+        "text": "Recipe_4",
+        "url": "https://realhealthyrecipes.com/recipes/oven_baked_tortillas"
       }
     ],
     "google_doc_links": [],
@@ -637,7 +738,12 @@
   },
   {
     "title": "Ground Beef (Loose)",
-    "external_links": [],
+    "external_links": [
+      {
+        "text": "Recipe",
+        "url": "https://www.bhg.com/cook-ground-beef-methods-11953680"
+      }
+    ],
     "google_doc_links": [
       {
         "text": "Quick_Recipe",
@@ -687,6 +793,10 @@
       {
         "text": "Recipe",
         "url": "https://littlehealthylife.com/honey-garlic-crispy-chicken-recipe-sweet-2005/?fbclid=IwY2xjawQr1LFleHRuA2FlbQIxMABicmlkETFUcFZnYk5QWnpTT1RwQmVLc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHo_FGsxAILeTp5xiHdkeuS0qg9UyNRSjd7Zzf56oK5k15RLLKHAXPq9lAGBz_aem_QdLs58tU691IdCcwwnPDDw"
+      },
+      {
+        "text": "Recipe_2",
+        "url": "https://kirbiecravings.com/baked-honey-garlic-chicken/"
       }
     ],
     "google_doc_links": [],
@@ -724,6 +834,20 @@
     "note": null
   },
   {
+    "title": "Kombucha",
+    "external_links": [
+      {
+        "text": "Recipe",
+        "url": "https://www.reddit.com/r/Kombucha/comments/5b1ztm/reddit_master_kombucha_recipe/?rdt=61632"
+      }
+    ],
+    "google_doc_links": [],
+    "picture_links": [],
+    "quick_recipe": null,
+    "has_quick_recipe": false,
+    "note": null
+  },
+  {
     "title": "Korean Popcorn Chicken",
     "external_links": [
       {
@@ -743,6 +867,34 @@
       {
         "text": "Recipe",
         "url": "https://www.thechoppingblock.com/blog/kvass-sweet-refreshing-and-good-for-your-gut"
+      }
+    ],
+    "google_doc_links": [],
+    "picture_links": [],
+    "quick_recipe": null,
+    "has_quick_recipe": false,
+    "note": null
+  },
+  {
+    "title": "Lemon Squares",
+    "external_links": [
+      {
+        "text": "Recipe",
+        "url": "https://www.marthastewart.com/337330/creamy-lemon-squares?utm_source=pinterest.com&utm_medium=social&utm_campaign=social-share-recipe&utm_content=20200620&utm_term=337330"
+      }
+    ],
+    "google_doc_links": [],
+    "picture_links": [],
+    "quick_recipe": null,
+    "has_quick_recipe": false,
+    "note": null
+  },
+  {
+    "title": "Mashed Potato Cakes",
+    "external_links": [
+      {
+        "text": "Recipe",
+        "url": "https://www.feastingathome.com/mashed-potato-cakes/"
       }
     ],
     "google_doc_links": [],
@@ -776,11 +928,11 @@
     ],
     "picture_links": [
       {
-        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXco5qYijl0SkdMZRYEGDh99kdJCIR98Dph73sG-biWY74WHRSxfmPrnlXGAq_-NohM92KZ1Hq6hlizVeQ47xjclQFOqtmjfBr__v-lPoz0DaMrbjWLx5uDWp_HkY46F8v0dFOvQcUgSqnDluOrKiROXIBWYCxXsFxlfBYPXV9qWj5BF=s2048?key=wEPWxtUnHiNLCWAOOQZ2BQ",
+        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1AFgcDYgfKdZHagziP4xYZ9d6-6i05uGKVkoo9_beVE7S44aKt-tmvMIM-1eswpqt-7ATmJu49US_XUuciqsm3_WtfzQJdhv4JTICpwIFK7EuyVdHAUDIctfCDJ2V-dKszeba5qNeLPCgQASAM0hNMb0sbwynrc9gj7f2Bt1Yq_SI=s2048?key=wEPWxtUnHiNLCWAOOQZ2BQ",
         "text": "Image"
       },
       {
-        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdu75JWQv6oPxCprI0fBdTQU4wOM_B2ErGhlFdiEnUA5tnopIQNxB-UJit_luEJgRwxSZ-FEAxGnDecfuqrhxka3C_2HenYKema2NdsO_8tdtG76GYn4p6hctMcrv8x49qsMibyR_wAaUB1RFy8u01WEl7Ld9BPZ02bzCoE8qsS9KFE=s2048?key=wEPWxtUnHiNLCWAOOQZ2BQ",
+        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeV278Gyusw_JVzmXAgATm1d4bOcBD4y5_bj4iGwW1mpBmxcfuvu57iC9Lh-IKRB65TxO92nMwY57waUu_0r1ogNaItrgIIqzvHuYQxUzT7eCVVZKtjOdF7-wFRiFlq5pbF2kz_snyRFs2mz3jCsRIchyRa1OtP_-XFgmHEmT5_5B3f=s2048?key=wEPWxtUnHiNLCWAOOQZ2BQ",
         "text": "Image"
       }
     ],
@@ -1149,6 +1301,24 @@
     "note": null
   },
   {
+    "title": "Sourdough French Toast",
+    "external_links": [
+      {
+        "text": "Recipe",
+        "url": "https://www.marcellinaincucina.com/panettone-french-toast-with-berries-and-honey/#recipe"
+      },
+      {
+        "text": "Recipe_2",
+        "url": "https://www.farmhouseonboone.com/sourdough-french-toast-from-scratch/#wprm-recipe-container-26882"
+      }
+    ],
+    "google_doc_links": [],
+    "picture_links": [],
+    "quick_recipe": null,
+    "has_quick_recipe": false,
+    "note": null
+  },
+  {
     "title": "Spinach Patties",
     "external_links": [
       {
@@ -1285,6 +1455,10 @@
       {
         "text": "Website",
         "url": "https://www.thefullhelping.com/"
+      },
+      {
+        "text": "Website_2",
+        "url": "https://www.forksoverknives.com/recipes/vegan-menus-collections/healthy-vegan-recipes-totally-crave-worthy/"
       }
     ],
     "google_doc_links": [],
