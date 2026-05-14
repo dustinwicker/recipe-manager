@@ -928,11 +928,11 @@
     ],
     "picture_links": [
       {
-        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdYpPHRmMyJLU-EQHW4zg12wPLv2wwdroosGa7iWJAfEdijHrdpmYelwBhcip-4L8hIFhazffjtiRk2RbvzAyyxf_dwx17YtczQ5QaJPTzSVZKvUBVUa0M6iKejEYUDQhFY5ESAe50Pmi7p2rX6erYssgGP-Lalt4qInPXxly1hEcJj=s2048?key=wEPWxtUnHiNLCWAOOQZ2BQ",
+        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfZ_RiB-zh0PEtLCc0imPWgBEACQyfk6asBlKiVPyzylA3v0QxopHNRKN21OKMqoHWWWGUj9I5DTyWy1w6vZjReO0RxPBc-da5dVbqu08VEKjV724yakp4oTCo-gPvXQnkaivMDe4l0Z-nLx0fRl2-XcBFo7i55eV4EpvKZLW49kYxt=s2048?key=wEPWxtUnHiNLCWAOOQZ2BQ",
         "text": "Image"
       },
       {
-        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdmjaXr8s4c82vmyJDZBJy84AP64hRgXdP5WOL_v0_NIyIJ8IJ6OtL7GKQ7smBRvT5nOUpvuCEkGTVZDCubojCinD6Of8Ni7okBn38c5G_3XWivp98k-WuZqH273RrBBwXrQKPfuUJRSFYb8cxVfPjxN524Egcc0XR-9G4CeUY_Xx8e=s2048?key=wEPWxtUnHiNLCWAOOQZ2BQ",
+        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXf1qG2RqlE-YHUC91RM41FaaRlp-H0wKzZ3kKjXqGe7C9gOlaWHzHTp51kkWp1OPVVxSxr6ix0nIKJbRc5EdzlAIcaFn6dmhceORfOeDRdwhfWVcfBPf30O1pE7KV1H4ccInWPk-9htUDhLYjW8YvZ4UfftYJYd63oxfFC2kpKhtqGw=s2048?key=wEPWxtUnHiNLCWAOOQZ2BQ",
         "text": "Image"
       }
     ],
@@ -1094,6 +1094,20 @@
     "note": null
   },
   {
+    "title": "Potato Salad",
+    "external_links": [
+      {
+        "text": "Recipe",
+        "url": "https://tastesbetterfromscratch.com/traditional-potato-salad/#wprm-recipe-container-9996"
+      }
+    ],
+    "google_doc_links": [],
+    "picture_links": [],
+    "quick_recipe": null,
+    "has_quick_recipe": false,
+    "note": null
+  },
+  {
     "title": "Potatoes (French Fries)",
     "external_links": [
       {
@@ -1180,6 +1194,25 @@
     "picture_links": [],
     "quick_recipe": null,
     "has_quick_recipe": false,
+    "note": null
+  },
+  {
+    "title": "Rockfish",
+    "external_links": [
+      {
+        "text": "Recipe",
+        "url": "https://breathingandcooking.com/crunchy-lemon-herb-baked-rockfish/#mv-creation-65-jtr"
+      }
+    ],
+    "google_doc_links": [
+      {
+        "text": "Quick_Recipe",
+        "url": "https://docs.google.com/document/d/1X_oTUs2kGQBV3yQXChXGbDN70yXeioav_sbrvRk27tQ/edit?tab=t.0"
+      }
+    ],
+    "picture_links": [],
+    "quick_recipe": null,
+    "has_quick_recipe": true,
     "note": null
   },
   {
