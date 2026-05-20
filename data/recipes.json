@@ -75,6 +75,20 @@
     "note": null
   },
   {
+    "title": "Banana Pudding Aunt_Brenda_Recipe",
+    "external_links": [],
+    "google_doc_links": [
+      {
+        "text": "Recipe",
+        "url": "https://docs.google.com/document/d/1ZKRBHoqKoQQ7RcnHoNtLtx0O0ae7ZMHF_XF1UUNp2kY/edit"
+      }
+    ],
+    "picture_links": [],
+    "quick_recipe": null,
+    "has_quick_recipe": false,
+    "note": null
+  },
+  {
     "title": "Beef Stew",
     "external_links": [],
     "google_doc_links": [],
@@ -942,11 +956,11 @@
     ],
     "picture_links": [
       {
-        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcN7_QyJThlLKrSp4a48jZ25ojLahI_AQParVjsNPnJCh6CHeSBIClIhE-uUmUo3T56HP5dn8SYWT4_e-dE1NbycgPk3ZNRZfSlS5Dicu_Y0LzUrmxkR16dP15WRK5vmGxQAux-7RdxTUyFrxlEjnsE1GscZvoVeMwNyN85JZ8RLwre=s2048?key=wEPWxtUnHiNLCWAOOQZ2BQ",
+        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdOKqW0MnmkV-uQV76jhPKpc2jDRpWd1RwC1tvw2F0C1nx9XawlVsmojMaPMn8xGCMDYRRb7v9eUasR403kFIOgZLH7MEgCH1uRUDSzB1EgCnuhUfO5iMk9vixek2fcs5qr2f8NfM0vh_jzTYYPSnpvd3wlikR7Yrjx2RfHhBKnHUaR=s2048?key=wEPWxtUnHiNLCWAOOQZ2BQ",
         "text": "Image"
       },
       {
-        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfMhwmtmP19nBdTGv0KKTBa3UdRZgPrg8-UD5bigshvYXBrGq_0T-6VntYTPXz47GjRCg_meGcQ0ebSZdZCPDcs-zvHPfQyT7T7dfpwa4QoJlzoUPBGZ54QakpA-cacvCpXKsIFFvVMXTO4VaQqQPPGwVkWPrEurP82IpBUUXWcMvIC=s2048?key=wEPWxtUnHiNLCWAOOQZ2BQ",
+        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXc07FI_rFe7vwJaioGtFukvr0haTflsvndBXUNZYmec1Re0mrOaSCgBwhft9q966B_NTUS_vxgxpYBhk8C3S3cgoH0i35Ym6RMZ3QD-qtkTEOoM0_BitTOmjVOJtDO4Vird_1ZW4ZdkAV6EP9c_UrdsjwzOKuGRpoaSad2v-wEFxxI6=s2048?key=wEPWxtUnHiNLCWAOOQZ2BQ",
         "text": "Image"
       }
     ],
@@ -1100,18 +1114,9 @@
   },
   {
     "title": "Pizza",
-    "external_links": [],
-    "google_doc_links": [],
-    "picture_links": [],
-    "quick_recipe": null,
-    "has_quick_recipe": false,
-    "note": null
-  },
-  {
-    "title": "Potato Salad",
     "external_links": [
       {
-        "text": "Recipe",
+        "text": "Aunt_Brenda_Recipe",
         "url": "https://tastesbetterfromscratch.com/traditional-potato-salad/#wprm-recipe-container-9996"
       }
     ],
