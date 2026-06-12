@@ -640,10 +640,15 @@
         "url": "https://www.allrecipes.com/recipe/147103/delicious-egg-salad-for-sandwiches/"
       }
     ],
-    "google_doc_links": [],
+    "google_doc_links": [
+      {
+        "text": "Quick_Recipe",
+        "url": "https://docs.google.com/document/d/1UXMxiT9Pn9WJ33tegRtGrorWiP1-8rhLJHYd-E0FSjE/edit?tab=t.0"
+      }
+    ],
     "picture_links": [],
-    "quick_recipe": null,
-    "has_quick_recipe": false,
+    "quick_recipe": "- Stovetop:\n  - Boil water\n  - Carefully drop eggs in for time according to boil preference:\n    - Soft boil: 7 minutes\n    - Hard boil: 8 minutes\n  - Put eggs in cold water for 5 minutes",
+    "has_quick_recipe": true,
     "note": null
   },
   {
@@ -956,11 +961,11 @@
     ],
     "picture_links": [
       {
-        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeXDTIENnrtFVEUJlE9CuL5yW7KaIOic9GJfQcgiBZhtpN1Gm0Hw4pAy1uLC7ic6NzaIDPMqKq6CHIXKgjGGIk3Qga1-p1ju_ioExm3uBvPdI2X6HfinbIcoo9AAWlOr9_AA-qzwdBUpwvRQQIzb0qS5FPHMRhSX3VXhy2KiB_vDN0k1fR1=s2048?key=wEPWxtUnHiNLCWAOOQZ2BQ",
+        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeQyoDt9x_mRbu6-xfSG-e8mYDM4FMA8aVMwiKgz5r-g-6YjEeTuel9jcfFqYNRrGxEDAeEWHqHqk_BzlcGXtxEXueh1yltvDGkmO8ihx48YxKundYhaOoFmTWyYWVKo2jFp-tZK58EItDb0ABK0uMvT9crwHoW9RjnlLhjF5DrO0Ffhtxp=s2048?key=wEPWxtUnHiNLCWAOOQZ2BQ",
         "text": "Image"
       },
       {
-        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXc5XF_BmGMD3S1ONdecaDJOq_Gij1iwBTIWCAV5WP2SoZIVZI9jcRHKQv59LV45P7n1N0USxgKr5pwNGizpJ5mS6OL-pocAsYe8q3kJPt-fGwLUv2DKLahhqWBQgGWFgSoRLWh35mZOwRxtIlRDVZLx0VUlxHqGOSHES41A9T6fnsNB4asM=s2048?key=wEPWxtUnHiNLCWAOOQZ2BQ",
+        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcNRBWVuGNIk3aWpUzZA4AaUYjbOO7RhbYrj3udMJ63WR7Z4VGfXnjOnK-GWUIkizHGoKVOAkYvYn-nKJzI_HojafQW8ubPhxmMLO_wOwya44ov3Z2BbBSlRX5R7lA9jyXGW4t6e3HdqmiThmJqNgJWXyT5oEGo8M4NTzTJSr5cHHI_uKTW=s2048?key=wEPWxtUnHiNLCWAOOQZ2BQ",
         "text": "Image"
       }
     ],
