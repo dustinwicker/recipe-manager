@@ -53,6 +53,29 @@
             font-size: 1.1em;
         }
         
+        .filter-row {
+            display: flex;
+            align-items: center;
+            margin-top: 14px;
+        }
+        
+        .filter-row input[type="checkbox"] {
+            width: 18px;
+            height: 18px;
+            margin-right: 10px;
+            cursor: pointer;
+            accent-color: #667eea;
+        }
+        
+        .filter-row label {
+            display: inline;
+            font-weight: 500;
+            font-size: 0.98em;
+            color: #555;
+            margin-bottom: 0;
+            cursor: pointer;
+        }
+        
         .recipe-combobox {
             position: relative;
         }
@@ -249,6 +272,10 @@
                 </div>
                 <div id="recipe-suggestions" class="recipe-suggestions"></div>
             </div>
+            <div class="filter-row">
+                <input type="checkbox" id="quick-only-filter" />
+                <label for="quick-only-filter">Only show recipes with a Quick Recipe</label>
+            </div>
         </div>
         
         <div class="recipe-content hidden" id="recipe-content">
@@ -281,6 +308,7 @@
         const recipeComboboxInner = document.getElementById('recipe-combobox-inner');
         const recipeClear = document.getElementById('recipe-clear');
         const recipeArrow = document.getElementById('recipe-arrow');
+        const quickOnlyFilter = document.getElementById('quick-only-filter');
         const recipeSuggestions = document.getElementById('recipe-suggestions');
         const recipeContent = document.getElementById('recipe-content');
         const recipeDetails = document.getElementById('recipe-details');
@@ -386,10 +414,19 @@
             displayRecipe(recipe);
         }
 
+        function getActiveTitles() {
+            if (!quickOnlyFilter.checked) return recipeTitles;
+            return recipeTitles.filter(t => {
+                const r = recipes.find(x => x.title.toLowerCase() === t.toLowerCase());
+                return r && r.has_quick_recipe;
+            });
+        }
+
         function filterRecipes(query) {
+            const pool = getActiveTitles();
             const q = (query || '').trim().toLowerCase();
-            if (!q) return recipeTitles;
-            return recipeTitles.filter(t => t.toLowerCase().includes(q));
+            if (!q) return pool;
+            return pool.filter(t => t.toLowerCase().includes(q));
         }
 
         function showSuggestions(matches) {
@@ -435,7 +472,7 @@
 
         function openSuggestions() {
             const matches = filterRecipes(recipeInput.value);
-            showSuggestions(matches.length > 0 ? matches : recipeTitles);
+            showSuggestions(matches.length > 0 ? matches : getActiveTitles());
             recipeComboboxInner.classList.add('focused');
         }
 
@@ -457,6 +494,18 @@
             e.preventDefault();
             recipeInput.focus();
             openSuggestions();
+        });
+
+        quickOnlyFilter.addEventListener('change', function() {
+            const activeTitles = getActiveTitles();
+            const selected = recipeInput.value.trim().toLowerCase();
+            if (selected && !activeTitles.some(t => t.toLowerCase() === selected)) {
+                clearRecipe();
+            }
+            if (recipeSuggestions.classList.contains('visible')) {
+                const matches = filterRecipes(recipeInput.value);
+                showSuggestions(matches.length > 0 ? matches : activeTitles);
+            }
         });
 
         recipeInput.addEventListener('keydown', function(e) {
