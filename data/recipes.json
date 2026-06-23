@@ -730,7 +730,7 @@
     "picture_links": [],
     "quick_recipe": null,
     "has_quick_recipe": false,
-    "note": null
+    "note": "on Heat: Put on next dot after MED"
   },
   {
     "title": "French Toast",
@@ -770,7 +770,7 @@
     "note": null
   },
   {
-    "title": "Ground Beef (Loose)",
+    "title": "Ground Beef (Loose) - For Tacos or Pasta Sauce",
     "external_links": [
       {
         "text": "Recipe",
@@ -784,9 +784,9 @@
       }
     ],
     "picture_links": [],
-    "quick_recipe": "Oven: 400 deg - 12-15 min",
+    "quick_recipe": "Oven: 400 deg\nTime: 12-15 minutes",
     "has_quick_recipe": true,
-    "note": "For tacos or pasta sauce"
+    "note": null
   },
   {
     "title": "Harissa Butter Beans",
@@ -961,11 +961,11 @@
     ],
     "picture_links": [
       {
-        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeG96di8dcC8VAoub2HDl7MH4l34sM_gH_WO4zixC0Xcgvm80zIjGYr-vP6gnw8PMYICnkF0Se_uoNvs6Dnp72ILJKkpZlltRigVBBVgaSrk4yRl89DXo3f6RikTd0RM9Yz7R07t5fKA36RAbWoSNajMo0LscmWrh-hukGOBrWhSh8TFqmP=s2048?key=wEPWxtUnHiNLCWAOOQZ2BQ",
+        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeW5uDnswFIQpQtqmI2TqdW-jIUwR1CcRo1_pvn2CKdg3VLN5LJDq_hGaXcHTbAwN2DC28eW_S1iG4ddkndaa7ADLtAD8xmLbzXCveAMTKvOeZDX3Sg9dNePryiLjChlgl1mQV4zLANCiN3SSZTJyFAqsXrU15yPIaMDnjpGgahnCAwe25n=s2048?key=wEPWxtUnHiNLCWAOOQZ2BQ",
         "text": "Image"
       },
       {
-        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXe0Dd_sNlkLJFg1EXvu9hfZdNKoccr1RYuxopJlm5d8voc3WYszKYVBHs-ukL2pXKVxRzD6mo47xApY7P8uWHy-jsHQzexLl2rXvrCPF-98RRqji8tYxrkJ-maWwkw0mlaYTKiD7CA086jvQbONJTf-zvj-Q8p-BHngBAVMkWBOk4I-B77q=s2048?key=wEPWxtUnHiNLCWAOOQZ2BQ",
+        "url": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdIm5EakHJmIW3qkcq7YVn0K63Sp0LdmcIgwRmdQtTIfNMEsafoHayH78sl81FMe4HNaS_-Es9JsDFIaKaNORBT3MuSWbrBy8t6q2PcPS4i_FSF67EApR-7lXIQfnR9Sh9GSkJkDM5A7G1w7N0PSvd7jh0NFQxsWNvLfkCp4HYA618wwcUx=s2048?key=wEPWxtUnHiNLCWAOOQZ2BQ",
         "text": "Image"
       }
     ],
@@ -1504,7 +1504,7 @@
     "picture_links": [],
     "quick_recipe": "Preparation:\n- Press tofu hard.\n  - 20–30 minutes minimum.\n  - More water removed = more crisp.\n- Place tofu on a plain baking sheet.\n- Sprinkle tofu with cornstarch and toss gently until lightly coated.\n- Drizzle ~½–1 tsp of olive oil on a baking sheet and spread thin.\n  - Oil should coat the baking sheet, not the tofu.\nBake in Oven:\n- Oven: 425 degrees\n- Time: 30 minutes",
     "has_quick_recipe": true,
-    "note": "on Heat: Put on next dot after MED"
+    "note": null
   },
   {
     "title": "Vegan",
